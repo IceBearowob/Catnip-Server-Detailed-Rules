@@ -15,10 +15,10 @@
 * [懲處標準](detailed-rules/懲處標準.md)
   * [洗頻](definition/洗頻.md)
   * [腳本](definition/腳本.md)
-  * [空降戰域遊玩規範](definition/空降戰域遊玩規範.md)
   * [作弊](definition/作弊.md)
 * [貓芽公平交易法](detailed-rules/貓芽公平交易法.md)
 * [公共傳點條例](detailed-rules/公共傳點條例.md)
+* [空降戰域遊玩規範](definition/空降戰域遊玩規範.md)
 
 ## 檢舉 <a href="#report" id="report"></a>
 
