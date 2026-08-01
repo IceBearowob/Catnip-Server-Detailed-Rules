@@ -19,11 +19,10 @@
     * [模組使用規範](definition/模組使用規範.md)
 * [貓芽公平交易法](detailed-rules/貓芽公平交易法.md)
 * [公共傳點條例](detailed-rules/公共傳點條例.md)
-* [空降戰域遊玩規範](definition/空降戰域遊玩規範.md)
+* [空降戰域遊玩規範](detailed-rules/空降戰域遊玩規範.md)
 
 ## 檢舉 <a href="#report" id="report"></a>
 
 * [檢舉須知](report/檢舉須知.md)
-  * [損害賠償](report/損害賠償.md)
   * [玩家領地凍結處置方法](report/玩家領地凍結處置方法.md)
   * [申訴](report/申訴.md)
