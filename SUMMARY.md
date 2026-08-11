@@ -1,6 +1,5 @@
 # Table of contents
 
-* [貓芽遊戲規範](rule.md)
 * [貓芽詳細規章](README.md)
 * [詳細規章介紹](introduction.md)
 
@@ -14,7 +13,7 @@
 * [懲處標準](detailed-rules/懲處標準.md)
   * [洗頻](definition/洗頻.md)
   * [作弊](definition/作弊.md)
-    * [腳本使用規範](definition/腳本.md)
+    * [腳本使用規範](definition/腳本使用規範.md)
     * [模組使用規範](definition/模組使用規範.md)
   * [領地與區域管理規範](definition/領地與區域管理規範.md)
 * [貓芽公平交易法](detailed-rules/貓芽公平交易法.md)
