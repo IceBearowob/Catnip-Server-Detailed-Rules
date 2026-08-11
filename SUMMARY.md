@@ -16,6 +16,7 @@
     * [腳本使用規範](definition/腳本使用規範.md)
     * [模組使用規範](definition/模組使用規範.md)
   * [領地與區域管理規範](definition/領地與區域管理規範.md)
+  * [宣傳與提及伺服器規範要點](definition/宣傳與提及伺服器規範要點.md)
 * [貓芽公平交易法](detailed-rules/貓芽公平交易法.md)
 * [公共傳點條例](detailed-rules/公共傳點條例.md)
 * [空降戰域遊玩規範](detailed-rules/空降戰域遊玩規範.md)
